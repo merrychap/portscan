@@ -15,6 +15,7 @@ $ sudo portscan.py [-h] [-l L] [-r R] [-t T] host
 Notice that script have to be used with **sudo** privilege. This happens because of using raw sockets in the script.
 
 Positional arguments:
+
 Argument | Description
 -------- | ----------
 l | Lower bound of scanning ports
@@ -22,6 +23,7 @@ r | Upper bound of scanning ports (excluded)
 host | Target host for scanning
 
 Optional arguments:
+
 Argument | Description
 -------- | ----------
 -h, --help | Show help message
