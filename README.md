@@ -31,7 +31,7 @@ Argument | Description
 --smooth | Use smooth scan (if this flag isn't specified then instead will be using process pool)
 
 ### Example of using
-It quite long though. Sorry ¯\_(ツ)_/¯
+It quite long though. Sorry ¯\\\_(ツ)_/¯
 ```sh
 $ sudo python3 portscan.py ya.ru -l 70 -r 81
 
